@@ -15,7 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hatimmmm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
 <img src='https://miro.medium.com/v2/resize:fit:964/0*6WVeWKb2_FGQQAHi.png/' style="height: 400px;"/>
 
 ---
